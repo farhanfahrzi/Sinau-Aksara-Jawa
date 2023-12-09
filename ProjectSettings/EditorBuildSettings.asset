@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: e8cb9b96b2d9c814c91ebd366129b377
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MenuSinau.unity
+    guid: c7007d9743bb8024ebd0f3300a9ac688
+  - enabled: 1
+    path: Assets/Scenes/Informasi.unity
+    guid: 06fe1a7195902c04384c70f6ec784850
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 61598259e87301540b1ed4c2392681fc
+  - enabled: 1
+    path: Assets/Scenes/Aksara Jawa/Sinau.unity
+    guid: df2296caefe1d14438afbd59c1776234
+  - enabled: 1
+    path: Assets/Scenes/Sejarah_Slide.unity
+    guid: b5ea4a9f279d37740b3ef34f42035098
+  - enabled: 0
+    path: Assets/Scenes/Sejarah.unity
+    guid: 3b292525417632f49a496ff6159ab590
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: c448b4128946fbc4aab13541cfdba328
+  - enabled: 1
+    path: Assets/Scenes/Bermain.unity
+    guid: d896b1ee6e1e2274ca7b5a6b3b68357f
+  - enabled: 1
+    path: Assets/Scenes/Game0.unity
+    guid: 5c9c0cb4f3f6c7a4580ec4900172fa85
+  - enabled: 1
+    path: Assets/Scenes/Game1.unity
+    guid: 347f64a82f7e5294c97180eae3b2b8e9
+  - enabled: 1
+    path: Assets/Scenes/Game2.unity
+    guid: 1d73c7d3d5196e84094c1b39937516be
+  - enabled: 1
+    path: Assets/Scenes/Game3.unity
+    guid: d07d66e3519a8c34c939b768fb4dc9c8
+  - enabled: 1
+    path: Assets/Scenes/Game4.unity
+    guid: 9d3d13db5fef6124d9adc70fa3397c4b
+  - enabled: 1
+    path: Assets/Scenes/GameSelesai.unity
+    guid: 83e135cfcc770c041a872b239256bf9e
+  - enabled: 1
+    path: Assets/Scenes/Aksara Jawa/Sinau2.unity
+    guid: 32ae75e38387d6b45bba58bd5d02c04a
+  - enabled: 1
+    path: Assets/Scenes/Aksara Jawa/Sinau3.unity
+    guid: ceac0dbcd6687194b8473fa5a87a8e38
+  - enabled: 1
+    path: Assets/Scenes/Aksara Jawa/Sinau4.unity
+    guid: 2c405c3fd45e1ae4cb6bc724dc76bd69
+  - enabled: 1
+    path: Assets/Scenes/Aksara Jawa/Sinau5.unity
+    guid: ed55da20462cb9c40a44107677ca0c1f
+  - enabled: 1
+    path: Assets/Scenes/Aksara Jawa/Sinau6.unity
+    guid: 0761ff23afc34de4386d95bd6581eb8d
+  - enabled: 1
+    path: Assets/Scenes/Aksara Jawa/Sinau7.unity
+    guid: 1e597855d8518594686884374011657a
+  - enabled: 1
+    path: Assets/Scenes/Soal/Mudah/Mudah.unity
+    guid: 965df882a29bdf94aa25704c28bccf7b
+  - enabled: 1
+    path: Assets/Scenes/Soal/Mudah/Mudah2.unity
+    guid: 28a3232754169e44d9c19d516298068c
+  - enabled: 1
+    path: Assets/Scenes/Soal/Mudah/Mudah3.unity
+    guid: 01202d69c15910744ab9d2287bbf178b
+  - enabled: 1
+    path: Assets/Scenes/Soal/Mudah/Mudah4.unity
+    guid: 7f3996bee08d9fd479b237a8b14e7285
+  - enabled: 1
+    path: Assets/Scenes/Soal/Mudah/Mudah5.unity
+    guid: 60029642473539c46a102b8ec4f04652
+  - enabled: 1
+    path: Assets/Scenes/Soal/Mudah/Mudah6.unity
+    guid: f45da8123f2479740882515712193531
+  - enabled: 1
+    path: Assets/Scenes/Soal/Mudah/Mudah7.unity
+    guid: eb0c1130a1cc79f41af99c956b805001
+  - enabled: 1
+    path: Assets/Scenes/Soal/Mudah/Mudah8.unity
+    guid: ef06591ab81c6504b81807a9d8400030
+  - enabled: 1
+    path: Assets/Scenes/Soal/Mudah/Mudah9.unity
+    guid: ada103c862319ad40ad0d393d93ec321
+  - enabled: 1
+    path: Assets/Scenes/Soal/Mudah/Mudah10.unity
+    guid: d98d097c380ce9540a8c48eab8c1974d
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai0.unity
+    guid: 8d1fbbb4facc12e489557a18bbcd0514
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai10.unity
+    guid: fe7d40b249b08b1489cd4288d0ab078d
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai20.unity
+    guid: 38eae5e476460094da74c19af413a4a0
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai30.unity
+    guid: 8ecf0dae5d790b44bbc10fc86c94f021
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai40.unity
+    guid: 7a14784f2c69ac74498cc92f4dccc193
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai50.unity
+    guid: 882cf26176803fc468f55b83b3335d2a
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai60.unity
+    guid: d9134138d078e1c4c81bb7edb3cc0a26
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai70.unity
+    guid: 454aa48339196b44e8bdff3a0e65250b
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai80.unity
+    guid: 0a4d57c3885759f48bad9c416226b1b5
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai90.unity
+    guid: 18ef8823873ef1e47a85e186f695b648
+  - enabled: 1
+    path: Assets/Scenes/Nilai/Nilai100.unity
+    guid: ee3e0d225c341594bb35b141fd27a138
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedang/Sedang1.unity
+    guid: 0dcb7d03ab3d2db4e81b1126ae08ce91
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedang/Sedang2.unity
+    guid: 043f3909852935a4db2583468e99de43
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedang/Sedang3.unity
+    guid: 8c1ed8ee942c94d408130b2aa784081b
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedang/Sedang4.unity
+    guid: beb312892163ca24d803725cf1b3ab01
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedang/Sedang5.unity
+    guid: edf9cf5ad090eae4a87348aa91584823
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedang/Sedang6.unity
+    guid: 5e91631bed297214989a6057e7e1c9e4
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedang/Sedang7.unity
+    guid: 58c8da1ceb97fea4a9c61b6972dc9753
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedang/Sedang8.unity
+    guid: 51be089eedcdf344c934ff17656f8b88
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedang/Sedang9.unity
+    guid: b73491095692eb84b8bb6a74e8debad3
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sedang/Sedang10.unity
+    guid: bbcaa6bb4cd4f844ea0e673b91572e5a
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sulit/Sulit1.unity
+    guid: b2cd859df6a1519428e3a7282f73f0ee
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sulit/Sulit2.unity
+    guid: 72a96004655893a4da17668d50e00821
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sulit/Sulit3.unity
+    guid: f08d454d068b48a4d9c43e2e1646c6fd
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sulit/Sulit4.unity
+    guid: de01a43831a20d7429324efa79419f80
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sulit/Sulit5.unity
+    guid: 081054980fe78b2459e11ae1c3a7c2b7
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sulit/Sulit6.unity
+    guid: 08b027ccb0b30f3449ec548cc0b2a36a
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sulit/Sulit7.unity
+    guid: 8f0b9aeac711ca542a3ccf1930f809d1
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sulit/Sulit8.unity
+    guid: 2a18b92292b53c1478c8214eb87dacf5
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sulit/Sulit9.unity
+    guid: da84e1110d2ccda47887c571b92e6c9a
+  - enabled: 1
+    path: Assets/Scenes/Soal/Sulit/Sulit10.unity
+    guid: de5147e3d6dd27a4c862c441d4fff7eb
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
